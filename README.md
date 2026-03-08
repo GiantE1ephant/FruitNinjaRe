@@ -1,1 +1,9 @@
 # FruitNinjaRe
+
+游戏初始界面，有两种游戏模式（普通模式和JODO模式），游戏玩法和水果忍者一致。
+
+![image-20260308205400326](C:\Users\29707\AppData\Roaming\Typora\typora-user-images\image-20260308205400326.png)
+
+基本流程图：
+
+![image-20260308205647781](C:\Users\29707\AppData\Roaming\Typora\typora-user-images\image-20260308205647781.png)
